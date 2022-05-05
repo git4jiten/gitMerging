@@ -5,5 +5,6 @@ public class Main {
         Service service = new Service();
         service.setServiceId("1");
         service.setServiceName("abcd");
+        System.out.println("print a-dev");
     }
 }

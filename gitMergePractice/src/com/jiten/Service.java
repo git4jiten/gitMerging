@@ -3,6 +3,7 @@ package com.jiten;
 public class Service {
     String serviceName;
     String serviceId;
+    String a_dev;
 
     public String getServiceName() {
         return serviceName;
