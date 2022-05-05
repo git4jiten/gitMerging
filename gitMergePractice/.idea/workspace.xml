@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fd74f650-9f09-47ea-b7f5-d2606f0a2c85" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/com/jiten/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jiten/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jiten/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jiten/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
